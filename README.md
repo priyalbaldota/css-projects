@@ -1,2 +1,2 @@
 # css-projects
-Small projects related to css
+Small projects related to CSS.
